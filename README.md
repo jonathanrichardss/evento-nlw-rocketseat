@@ -6,8 +6,9 @@
 
 Projeto construído do evento Next Level Week da RocketSeat.
 
-[Clique aqui para acessar](https://jonathanrichardss.github.io/
-evento-nlw-rocketseat/)
+[Clique aqui para acessar]
+
+https://jonathanrichardss.github.io/evento-nlw-rocketseat/
 
 ## Tecnologias
 
